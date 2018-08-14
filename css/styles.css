@@ -1,14 +1,5 @@
-#inputText {
-
-}
-
-body {
-  /*background: linear-gradient(to top right, gray, lightgray);*/
-  height: 1600px;
-  line-height:40px;
-  padding: 0 5px;
-}
-
-li p {
-  font-weight: bold;
+.output {
+  font-size: 20px;
+  font-weight: 600px;
+  display: none;
 }
